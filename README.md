@@ -7,9 +7,6 @@ In the first step, I want to setup an integration with Raspberry Pi to water my 
 
 I also want to use this project to test some new technologies and to be my showcase.
 
-Quick Overview
---------------
-
 Irrigation system
 -----------------
 This project can be divided in some parts:
@@ -17,6 +14,16 @@ This project can be divided in some parts:
 - Control the Raspberry Pi board (hopefully with kotlin multiplatform + nodejs) to trigger the watering system.
 - Monitor the status and history for every plant with an Android app. Maybe in the future I can build an iOS project with kotlin MPP.
 - Configure plant and sensors registration with Firebase console.
+
+Quick Overview
+--------------
+![Icon (1)](https://user-images.githubusercontent.com/1706622/128160651-e2377574-d79b-4a99-90e7-f8b5b9b97304.png)
+
+I would like to apologize for my terrible design skills, but I hope you got the references from the icon :)
+
+Here it is a quick intro of how simple this project will be, just 2 screens to start, just a list of plants with a detail screen
+![image (10)](https://user-images.githubusercontent.com/1706622/128160876-95b193f3-3a30-4abd-9ad5-11cb2c5d23aa.png)
+
 
 Architecture
 ------------
